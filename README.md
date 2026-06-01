@@ -1,9 +1,7 @@
-hey, i'm nick
+## what i'm building
 
-building things, breaking things, learning as i go
+**[The Lobby](https://github.com/nick-does-stuff/lobby)** — a live event social app. every event gets a room. ephemeral by design.
 
-**current thing:**
-- [The Lobby](https://github.com/nick-does-stuff/lobby) — a live event social app. every event gets a room. ephemeral by design.
+## everything else
 
-**other stuff:**
-- [AOC](https://github.com/nick-does-stuff/AOC) — advent of code solutions in python
+- **[AOC](https://github.com/nick-does-stuff/AOC)** — advent of code, python
