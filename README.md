@@ -1,6 +1,8 @@
 ## what i'm building
 
-**[The Lobby](https://github.com/nick-does-stuff/lobby)** — a live event social app. every event gets a room. ephemeral by design.
+**[The Lobby](https://github.com/nick-does-stuff/lobby)** — a live event social app. every event gets a room. pre-event: post feed. live: real-time chat. when it ends, it's gone.
+
+built with React, FastAPI, and Supabase. deployed on Railway.
 
 ## everything else
 
