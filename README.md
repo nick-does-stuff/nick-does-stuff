@@ -7,3 +7,4 @@ built with React, FastAPI, and Supabase. deployed on Railway.
 ## everything else
 
 - **[AOC](https://github.com/nick-does-stuff/AOC)** — advent of code, python
+- **[College: Data Science](https://github.com/nick-does-stuff/image-processor)** - image difference detector, python
